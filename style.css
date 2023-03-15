@@ -1,0 +1,20 @@
+body {
+  background: #ececec;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container-p {
+  max-width: 650px;
+  min-width: 448px;
+}
+
+.container-p img {
+  max-width: 300px;
+}
+
+.hiden {
+  visibility: hidden;
+}
