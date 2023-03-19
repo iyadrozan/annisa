@@ -219,13 +219,15 @@ async function mulai() {
 
 async function lanjut() {
   pemb = "Hai, " + nama + "! ... Jawab pertanyaan ini dengan jujur ya ><      ";
-  kata1 = nama + " sayang gak sama Aku? &#129325;";
+  kata1 = nama + " sayang gak sama Rozan? &#129325;";
 
-  kata2 =
-    "Kalau sayang, berarti " + nama + " mau dong jadi pacar Aku? &#129392;";
+  kata2 = "Kalau sayang, berarti " + nama + " mau dong Maafin Rozan? &#129392;";
 
-  kata3 = "Yeay! Akhirnya kita jadian &#128518;&#128157;";
-  katab3 = "Tanggal jadian kita adalah: " + today + "!";
+  kata3 = "Yeay! Akhirnya di maafin hehe &#128518;&#128157;";
+  katab3 =
+    "Mulai hari ini tanggal " +
+    today +
+    " Rozan gak bakal ketiduran lagii!!! <br/> (semoga hehehe..)";
 
   tombolterima1 = "Sayang";
   tombolterima2 = "Mau";
@@ -237,7 +239,7 @@ async function lanjut() {
   tekstolak22 = "Eits &#128541;";
   teksnolak = "Harus mau!!! &#128541;";
 
-  pesanwhatsapp = "Iya aku mau jadi pacar kamu ><";
+  pesanwhatsapp = "Iya aku mau maafin Rozan ><";
   linkmp3 = "./assets/komang.mp3";
 
   showDiv();
