@@ -249,7 +249,7 @@ async function menuju() {
   if (fungsi == 2) {
     await swals.fire("Kirim pesan ke WhatsApp aku, ya!");
     window.location =
-      "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;
+      "https://api.whatsapp.com/send?phone=6285240314394&text=" + pesanwhatsapp;
   }
 }
 mulai();
